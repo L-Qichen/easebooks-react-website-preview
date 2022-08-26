@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/easebooks-react-website-preview/static/css/main.fd1ebc17.css",
+    "main.js": "/easebooks-react-website-preview/static/js/main.fc8b531a.js",
+    "static/js/529.0c78afc4.chunk.js": "/easebooks-react-website-preview/static/js/529.0c78afc4.chunk.js",
+    "index.html": "/easebooks-react-website-preview/index.html",
+    "main.fd1ebc17.css.map": "/easebooks-react-website-preview/static/css/main.fd1ebc17.css.map",
+    "main.fc8b531a.js.map": "/easebooks-react-website-preview/static/js/main.fc8b531a.js.map",
+    "529.0c78afc4.chunk.js.map": "/easebooks-react-website-preview/static/js/529.0c78afc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd1ebc17.css",
+    "static/js/main.fc8b531a.js"
+  ]
+}
